@@ -1,4 +1,4 @@
-# 💳 Fraud Detection Prediction App
+# 💳 Fraud Detection Prediction
 
 This project is a **Fraud Detection System** that predicts whether a financial transaction is fraudulent or not.  
 It uses a **Machine Learning pipeline** trained on transaction data.
@@ -22,7 +22,7 @@ fraud-detection/
 
 ---
 
-## 🚀 How to Run the App
+## 🚀 How to Run on web
 
 ### 1. Clone the Repository
 ```bash
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 - Download the dataset and model files from the links above.  
 - Put them inside the project folder.
 
-### 4. Run Streamlit App
+### 4. Run Streamlit 
 ```bash
 streamlit run fraud_detection.py
 ```
